@@ -39,8 +39,31 @@ StudyAI Agent is an AI-powered college study assistant designed to help students
 - Retrieval-Augmented Generation (RAG)
 
 ## 🏗️ Project Structure
+## 📸 Screenshots
 
-```text
+### 🏠 Home
+![Home](screenshots/01_home.png)
+
+### 🤖 AI Tutor
+![AI Tutor](screenshots/02_ai_tutor.png)
+
+### 📄 PDF Q&A
+![PDF Q&A](screenshots/03_pdf_qa.png)
+
+### 📝 Exam Preparation
+![Exam Preparation](screenshots/04_exam_preparation.png)
+
+### 📘 Smart Notes
+![Smart Notes](screenshots/05_smart_notes.png)
+
+### 🧠 Flashcards
+![Flashcards](screenshots/06_flashcards.png)
+
+### 🧩 Quiz Generator
+![Quiz Generator](screenshots/07_quiz_generator.png)
+
+### 🎤 Voice Assistant
+![Voice Assistant](screenshots/08_voice_assistant.png)
 StudyAI-Agent/
 │
 ├── backend/
